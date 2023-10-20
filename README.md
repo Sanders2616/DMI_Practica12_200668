@@ -14,11 +14,16 @@ Fecha entrega: 20 de Octubre del 2023 <br> <br>
 # Resultado de la Practica 12
 
 <div style="display: flex; justify-content:">
- <img align="left" src="practica11_200668/images/mov1.jpg?raw=true" alt="Imagen 1" width="200";/>
-<img align="left" src="practica11_200668/images/mov2.jpg?raw=true" alt="Imagen 2"  width="200" />
+ <img align="left" src="images/7.jpg?raw=true" alt="Imagen 1" width="200";/>
+<img align="left" src="images/1.jpg?raw=true" alt="Imagen 2"  width="200" />
+<img align="left" src="images/2.jpg?raw=true" alt="Imagen 2"  width="200" />
+<img align="left" src="images/3.jpg?raw=true" alt="Imagen 2"  width="200" />
 </div>
 
 <div style="display: flex; justify-content:">
  <img align="left" src="practica11_200668/images/tv1.jpg?raw=true" alt="Imagen 1" width="200";/>
 <img align="left" src="practica11_200668/images/tv2.jpg?raw=true" alt="Imagen 2"  width="200" />
+<img align="left" src="practica11_200668/images/tv2.jpg?raw=true" alt="Imagen 2"  width="200" />
+<img align="left" src="practica11_200668/images/tv2.jpg?raw=true" alt="Imagen 2"  width="200" />
+
 </div>
