@@ -1,8 +1,8 @@
 # practica12_200668
 
 <div style="display: flex; justify-content: space-between;">
-    <img align="left" src="practica11_200668/logos/LOGO TIC.png?raw=true" alt="Imagen 1" width="200"; />
-    <img align="right" src="practica11_200668/logos/LOGO UTXJ 2019.png?raw=true" alt="Imagen 2" width="300" height="80" />
+    <img align="left" src="logos/LOGO TIC.png?raw=true" alt="Imagen 1" width="200"; />
+    <img align="right" src="logos/LOGO UTXJ 2019.png?raw=true" alt="Imagen 2" width="300" height="80" />
 </div><br><br><br><br><br>
 UNIVERSIDAD TECNOLÓGICA DE XICOTEPEC DE JUÁREZ <br><br>
 Materia: Desarrollo Movil Integral <br>
