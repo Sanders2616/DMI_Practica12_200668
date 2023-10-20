@@ -21,9 +21,9 @@ Fecha entrega: 20 de Octubre del 2023 <br> <br>
 </div>
 
 <div style="display: flex; justify-content:">
- <img align="left" src="practica11_200668/images/tv1.jpg?raw=true" alt="Imagen 1" width="200";/>
-<img align="left" src="practica11_200668/images/tv2.jpg?raw=true" alt="Imagen 2"  width="200" />
-<img align="left" src="practica11_200668/images/tv2.jpg?raw=true" alt="Imagen 2"  width="200" />
-<img align="left" src="practica11_200668/images/tv2.jpg?raw=true" alt="Imagen 2"  width="200" />
+ <img align="left" src="images/8.jpg?raw=true" alt="Imagen 1" width="200";/>
+<img align="left" src="images/4.jpg?raw=true" alt="Imagen 2"  width="200" />
+<img align="left" src="images/5.jpg?raw=true" alt="Imagen 2"  width="200" />
+<img align="left" src="images/6.jpg?raw=true" alt="Imagen 2"  width="200" />
 
 </div>
